@@ -1,0 +1,9 @@
+My name is Aniruddha Banerjea
+I am eighteen years old
+My hobbies are:
+1:Basketball
+2:Photoshop
+
+
+
+#The contents of this file were copied from openme.txt upto the line End Here
